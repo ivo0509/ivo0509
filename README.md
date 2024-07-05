@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 📚 I am currently learning QA Fundamentals in Software University (SoftUni). I have also studied C# Basics, C# Fundamentals, C# Advanced, C# OOP and C# DB
--  I like play to games:joystick:, to reading :blue_book: and listening to music :notes:.
+-  I like play to games :joystick: , to reading :blue_book: and listening to music :notes:.
 
 
 ### <h2> 🤝🏻 Connect with Me </h2>

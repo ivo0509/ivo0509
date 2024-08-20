@@ -1,12 +1,14 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ivan 👋</h2>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivo0509" alt="ivo0509" /></a> </p>
+
 
 ### 👨🏻‍💻 About Me
 - 📚 I am currently learning QA Fundamentals in Software University (SoftUni). I have also studied C# Basics, C# Fundamentals, C# Advanced, C# OOP and C# DB - Entity Framework Core, MS SQL
 -  I like play to games :joystick: , to reading :blue_book: and listening to music :notes:.
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivo0509" alt="ivo0509" /></a> </p>
 
 ### <h2> 🤝🏻 Connect with Me </h2>
 <p align="left">

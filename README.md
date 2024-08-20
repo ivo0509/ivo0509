@@ -7,7 +7,7 @@
 - 📚 I am currently learning QA Fundamentals in Software University (SoftUni). I have also studied C# Basics, C# Fundamentals, C# Advanced, C# OOP and C# DB - Entity Framework Core, MS SQL
 -  I like play to games :joystick: , to reading :blue_book: and listening to music :notes:.
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivo0509&label=Profile%20views&color=0e75b6&style=flat" alt="ivo0509" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivo0509" alt="ivo0509" /></a> </p>
 
 ### <h2> 🤝🏻 Connect with Me </h2>

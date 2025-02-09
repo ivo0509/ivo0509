@@ -4,7 +4,7 @@
 
 
 ### 👨🏻‍💻 About Me
-- 📚 I am currently learning Programming Fundamentals and Unit testing in Software University (SoftUni). I have also studied C# Basics, C# Fundamentals, C# Advanced, C# OOP and C# DB - Entity Framework Core, MS SQL
+- 📚 I am currently learning Front-End Technologies Basics  in Software University (SoftUni). I have also studied C# Basics, C# Fundamentals, C# Advanced, C# OOP and C# DB - Entity Framework Core, MS SQL
 -  I like play to games :joystick: , to reading :blue_book: and listening to music :notes:.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivo0509&label=Profile%20views&color=0e75b6&style=flat" alt="ivo0509" /> </p>
